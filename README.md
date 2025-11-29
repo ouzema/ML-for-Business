@@ -237,7 +237,7 @@ Based on academic research in M&A performance measurement and the CRISP-DM frame
 
 ---
 
-**Author**: Oussema 
+**Author**: Oussema  
 **Framework**: CRISP-DM  
 **Focus**: Unsupervised Learning for M&A Analysis
 
