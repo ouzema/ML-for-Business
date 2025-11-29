@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+Unsupervised_Learning_Implementation.ipynb
+
+# Data files (generated outputs)
+eurozone_transactions.csv
+eurozone_transactions_enriched.csv
+eurozone_transactions_clustered*.csv
+X_final.npy
+extracted_keywords.txt
+*.png
+
+# Documentation (keep only README.md)
+CORRECTED_SETUP.md
+GPU_ACCELERATION.md
+PROJECT_SUMMARY.md
+
+# Utility scripts (not needed for repo)
+inspect_data.py
+update_notebook.py
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
