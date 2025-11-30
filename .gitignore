@@ -17,8 +17,13 @@ Unsupervised_Learning_Implementation.ipynb
 eurozone_transactions.csv
 eurozone_transactions_enriched.csv
 eurozone_transactions_clustered*.csv
+tech_transactions.csv
+tech_transactions_enriched.csv
+tech_transactions_clustered*.csv
 X_final.npy
+X_tech_final.npy
 extracted_keywords.txt
+extracted_keywords_tech.txt
 *.png
 
 # Documentation (keep only README.md)
